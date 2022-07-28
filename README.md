@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+<img src="https://giphy.com/gifs/cat-hacker-webs-o0vwzuFwCGAFO" width="100" height="100" />
 
 - 🌱 I’m currently learning React and TypeScript.
 - 📫 How to reach me: JustinRoesner@gmail.com
